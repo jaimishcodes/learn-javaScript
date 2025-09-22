@@ -1,1 +1,1 @@
-console.log("jaimish"):
+console.log("jaimish");
